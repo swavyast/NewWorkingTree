@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+a{
+	text-decoration : none;
+}
+
+.floatright{
+	float : right;
+}
+
+.floatleft {
+	float : left;
+}
+
+.card-shadow{
+	box-shadow : 0 0 10px 0 rgba(0,0,0,0.3);
+}
+
+.steth {
+	margin-top : 42px;
+	margin-left : 50px;
+}
+
+.card img {
+    border: 1px solid black;
+    border-radius: 0px 10px 10px 0px;
+    width : 200px;
+}
+
+.form-div{
+	max-width : 500px;
+}
+
+footer div{
+	max-height : 25px;
+}
+
+footer div p{
+	/* display : flex;
+	flex-wrap : nowrap;
+	align-content: center; */
+	margin-top : -5px;
+}
+
+.mediHome{
+	
+	font-style : italic;
+}
